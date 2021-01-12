@@ -7,6 +7,7 @@ define('PG_RESPONSE_URL', 'http://localhost/projects/new_merchant_hosted/respons
 define('PG_RESPONSE_MODE', 'SALE');
 define('PG_SALT', '8535b0d335e545d4');
 define('PG_PAY_ID', '2001141020561000');
+define('NEW_VARIABLE', 'test_var');
 
 
 
